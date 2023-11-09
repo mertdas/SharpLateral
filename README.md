@@ -1,6 +1,6 @@
 # SharpLateral
 
-# Compiling Project
+## Compiling Project
 
 Below 3rd party libraries are used in this project.
 
