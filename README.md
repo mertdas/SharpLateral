@@ -25,14 +25,13 @@ SharpLateral aims to perform lateral movement with the following methods:<br>
 ````Executes Malware on given hostname via MMC20````
  <br>Scheduled Task:<br>
 ``SharpLateral schedule C:\Users\Administrator\Desktop\malware.exe TaskName``<br>
-````Creates Task,Executes Malware,Deletes Task````<br>
+Creates Task,Executes Malware,Deletes Task<br>
 <br>Service:<br>
 ``SharpLateral.exe redexec HOSTNAME C:\\Users\\Administrator\\Desktop\\malware.exe.exe malware.exe ServiceName``<br>
-````Creates Service and executes malware with it````
+  Creates Service and executes malware with it
 <br>WMI:<br>
-  ``RedPersist.exe --help``<br><br>
- SharpLateral redwmi Client2 C:\\Users\\Administrator\\Desktop\\malware.exe<br>
-````Executes malware via WMI on remote host````
+ ``SharpLateral redwmi Client2 C:\\Users\\Administrator\\Desktop\\malware.exe``<br>
+Executes malware via WMI on remote host
 
 
 
