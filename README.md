@@ -1,5 +1,7 @@
 # SharpLateral
 
+SharpLateral is a tool that includes 4 different methods for performing lateral movement in the AD environment and is written in C# language.
+
 ## Compiling Project
 
 Below 3rd party libraries are used in this project.
