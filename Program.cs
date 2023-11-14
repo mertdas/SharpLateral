@@ -31,7 +31,7 @@ namespace SharpLateral
             if (command == "redexec")
             {
                 // Example usage: Latrealmove redexec 192.168.1.2 C:\localfile.exe C:\remotefile.exe MyServiceName
-                RedExec.Redexec(args.Skip(1).ToArray()); /
+                RedExec.Redexec(args.Skip(1).ToArray());
             }
             if (command == "schedule")
             {
